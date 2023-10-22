@@ -1,5 +1,0 @@
-Run in linux cli:
-
-$cat small_part* > large_lear_audio_folder.zip
-
-Then unzip, and you can play file inside.
